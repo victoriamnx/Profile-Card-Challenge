@@ -4,8 +4,8 @@ This is a solution to the [https://www.frontendmentor.io/challenges/profile-card
 
 # Table of contents
 
-- [Result](# Result)
-- [Links](#Links)
+- [Result](#result)
+- [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -13,7 +13,7 @@ This is a solution to the [https://www.frontendmentor.io/challenges/profile-card
 
 # Result
 
-[components\images\myresult.png]
+![Screenshot 2023-03-12 225130](https://user-images.githubusercontent.com/96449803/224592363-37e16565-f8f6-415e-a4f7-a28586b7c899.png)
 
 # Links
 
