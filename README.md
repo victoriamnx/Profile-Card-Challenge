@@ -13,15 +13,12 @@ This is a solution to the [https://www.frontendmentor.io/challenges/profile-card
 
 # Result
 
-![Screenshot 2023-03-12 225130](https://user-images.githubusercontent.com/96449803/224592363-37e16565-f8f6-415e-a4f7-a28586b7c899.png)
+![Screenshot 2023-03-12 225130](https://user-images.githubusercontent.com/96449803/224593280-6a10f78e-3076-46ee-83a4-10ded1417399.png)
 
 # Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-l72FEyYL0D]
-- Live Site URL: [https://qr-code-challenge-phi.vercel.app/]
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-AGOWXlInUB]
+- Live Site URL: [https://profile-card-challenge-khaki.vercel.app/]
 
 # Built with
 
