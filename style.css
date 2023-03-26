@@ -137,3 +137,20 @@ img#bottom {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
